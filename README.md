@@ -22,20 +22,11 @@ None
 
 ## Installation
 
-In your terminal (MAC):
-
-1. `git clone git@github.com:ss12932/icodethis-challenges.git`
-2. `cd icodethis-challenges`
-3. `mkdir <CHALLENGE_NAME>`
-4. `cd <CHALLENGE_NAME>`
-5. `cp -R ../icodethis-template/ .`
-6. `code .`
-7. Once you opened up the IDE, open up your integrated terminal and run `npm i`, followed by `npm run build` and lastly `npm run watch`.
-8. Code away!
+None
 
 ## Technologies
 
-HTML, CSS and Javascript
+None
 
 ## Package
 
@@ -43,7 +34,7 @@ None
 
 ## Resources
 
-Material Symbols and Icons from Google
+None
 
 ## Dependencies
 
