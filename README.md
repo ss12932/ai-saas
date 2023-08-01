@@ -1,34 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ai-saas
 
-## Getting Started
+## Overview
 
-First, run the development server:
+none
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Deployed Link
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+https://ai-saas-tau-three.vercel.app
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Github Repository Link
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+None
 
-## Learn More
+## Application Screenshot
 
-To learn more about Next.js, take a look at the following resources:
+None
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## User Story
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+None
 
-## Deploy on Vercel
+## Installation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+In your terminal (MAC):
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. `git clone git@github.com:ss12932/icodethis-challenges.git`
+2. `cd icodethis-challenges`
+3. `mkdir <CHALLENGE_NAME>`
+4. `cd <CHALLENGE_NAME>`
+5. `cp -R ../icodethis-template/ .`
+6. `code .`
+7. Once you opened up the IDE, open up your integrated terminal and run `npm i`, followed by `npm run build` and lastly `npm run watch`.
+8. Code away!
+
+## Technologies
+
+HTML, CSS and Javascript
+
+## Package
+
+None
+
+## Resources
+
+Material Symbols and Icons from Google
+
+## Dependencies
+
+None
+
+## License
+
+None
+
+## Contact
+
+Please Contact me on ss12932@my.bristol.ac.uk
